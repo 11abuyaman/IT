@@ -68,7 +68,7 @@ class App extends React.Component {
         value: 2.5
       },
       {
-        label: 'C',
+        label: 'C+',
         value: 2
       },
       {
